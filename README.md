@@ -9,3 +9,9 @@
 
 3. index.html ** 
     <!-- built files will be auto injected -->
+
+
+** vue 시작
+vue create [할 파일명] -> default 선택
+
+npm run serve - vue 서버 실행 
